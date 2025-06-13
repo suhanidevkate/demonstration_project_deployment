@@ -1,2 +1,2 @@
-# demonstration_project_deployment
+# demonstrate_project_deployment
 this repo created for demonstration
